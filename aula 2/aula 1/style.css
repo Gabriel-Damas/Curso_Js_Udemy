@@ -1,0 +1,12 @@
+*{
+    background-color: blueviolet;
+}
+
+h1{
+    color:greenyellow;
+    padding-left: 830px;
+    padding-top: 200px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style:italic;
+    font-size: 3em;
+}
